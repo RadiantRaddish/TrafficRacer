@@ -21,6 +21,10 @@ Follow these steps to add your Unity project to a GitHub repository.
 5. Add a commit message (e.g., "Initial commit") and click **Commit to main**.
 6. Click **Publish repository** to push your project to GitHub.
 
+![Screenshot](Images/car1.png)
+![Screenshot](Images/car2.png)
+![Screenshot](Images/carmenu.png)
+
 #### Using Command Line
 1. Open a terminal in your project folder.
 2. Run the following commands:
@@ -32,7 +36,3 @@ git commit -m "Initial commit"
 git branch -M main
 git remote add origin https://github.com/USERNAME/REPO_NAME.git
 git push -u origin main
-
-![Screenshot](Images/car1.png)
-![Screenshot](Images/car2.png)
-![Screenshot](Images/carmenu.png)
